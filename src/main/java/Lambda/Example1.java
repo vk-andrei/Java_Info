@@ -1,8 +1,6 @@
 package Lambda;
 
-import java.util.function.IntBinaryOperator;
-
-public class Start {
+public class Example1 {
     public static void main(String[] args) {
 
         int x = 1;

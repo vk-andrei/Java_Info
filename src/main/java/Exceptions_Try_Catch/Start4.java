@@ -19,7 +19,7 @@ public class Start4 {                                      // Если на са
 }
 
 
-// Бывают Checked Exceptions (Compile time exception) - исключительные случае в работе программы
+// Бывают Checked Exceptions (Compile time exception) - исключительные случаи в работе программы
 // Бывают Unchecked Exceptions (Runtime exception)    - ошибки в программе (напр деление на 0, вызов элемента массива за
 //                                                      его пределами и пр)
 // Все exceptions в Java - checked, кроме одного RuntimeException. (Все есть на сайте)
